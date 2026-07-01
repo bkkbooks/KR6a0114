@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6a0114/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後漢沙門支曜譯聞如是一時佛在舍衛國祇樹給孤獨園佛便告諸比丘善馬有三相用入官可給御中王意得名為官馬何等為三相一者有善馬意自能走二者有力三者端正好色是為三相善馬中入官善人亦有三相自得善意名聞亦豪舉人敬難之可受人禮能福天下何等為三相有善人得意能走有力有端正色何等為善人得意能走有善人得意是苦如有知為是習為是盡敗為是道識如是善人得意為走何等為善人得意為力為有弊惡態當為斷盡力求之精進求者意棄惡未起弊惡態不復起未起善意當為起已起善意當為止不忘減稍稍增多行意俱善行盡力求制意棄惡如是善人得力何等為善人得意有色端正是間有善人得意避五樂避弊惡能到四棄得行如是善人得意有色是為三因緣諦行善人得意名聞為能主舉人難之可取禮天下如是佛說如是
+  hash: sha256:943bd784da9298c77b211d4ae265aa05e7eb3d8dccdd02a953e7fd911e9c08bb
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 佛說馬有三相經出雜阿含別譯, id: KR6a0114_T_001-juan-start, juan_n: '001', jhead: 佛說馬有三相經出雜阿含別譯}
+  - {type: 'cbeta:juan-end', offset: 308, content: 佛說馬有三相經, id: KR6a0114_T_001-juan-end, juan_n: '001', jhead: 佛說馬有三相經}
+metadata:
+  title: 佛說馬有三相經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0114.xml
+    old_id: T02n0114
+hash: sha256:259a9142eb326b7ffa8ac5ebbb4551aa23049ecf866ecddf10b713905708d081

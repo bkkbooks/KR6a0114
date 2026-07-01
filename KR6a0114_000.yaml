@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0114/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說馬有三相經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0114.xml
+    old_id: T02n0114
+hash: sha256:24d1d90291d673b4bdf5bc1531d2d0ce929c0f172902ecbb732860a4a942796f
