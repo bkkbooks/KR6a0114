@@ -30,7 +30,7 @@ assets:
   - {seq: 0, filename: KR6a0114_000.yaml, hash: 'sha256:24d1d90291d673b4bdf5bc1531d2d0ce929c0f172902ecbb732860a4a942796f'}
   - {seq: 1, filename: KR6a0114_001.yaml, hash: 'sha256:356e5ef908818c14b742a3e41bb3f413668120ce1b3ca7e16a51ef17eeec7a0e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0114_000.markers.yaml, hash: 'sha256:b69c9e72666e789b1fda03375922f375a7f34e954f2ef25e1fd662be90c9e721'}
+  - {seq: 0, role: markers, filename: assets/KR6a0114_000.markers.yaml, hash: 'sha256:4e60a97c0c62bf7da20b121222ed5f0fed341d91b431d51b3993ebeabee75744'}
   - {seq: 1, role: markers, filename: assets/KR6a0114_001.markers.yaml, hash: 'sha256:4c6b33546dc692624416fac2f9d62a75399fed959dd17b20d772797d13b69247'}
 table_of_contents:
 - ref:
@@ -43,7 +43,7 @@ table_of_contents:
   label: 佛說馬有三相經出雜阿含別譯
   type: juan
   level: 1
-hash: sha256:a14f6b97915047b39657ea85de3a34bb9ec80700bd617f804a79153d9183792b
+hash: sha256:a2de9d9c10d565b75b6206adcb03dba58176f4710f315e76769a3f7b9ea3e3a6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

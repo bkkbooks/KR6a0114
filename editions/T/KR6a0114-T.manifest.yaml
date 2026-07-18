@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0114_000-T.yaml, hash: 'sha256:24d1d90291d673b4bdf5bc1531d2d0ce929c0f172902ecbb732860a4a942796f'}
   - {seq: 1, filename: KR6a0114_001-T.yaml, hash: 'sha256:259a9142eb326b7ffa8ac5ebbb4551aa23049ecf866ecddf10b713905708d081'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0114_000-T.markers.yaml, hash: 'sha256:ff6280a033347df97b5f1bbc587cf997e1a0dd4537a39b4a17d640c01e278f38'}
+  - {seq: 0, role: markers, filename: assets/KR6a0114_000-T.markers.yaml, hash: 'sha256:b2dfdbefbe3728dd3e4c8cc205dfcc9291323efb5700b835004155b020fc965d'}
   - {seq: 1, role: markers, filename: assets/KR6a0114_001-T.markers.yaml, hash: 'sha256:848367a8e837eb54842c26a67015fab0eba0836859ddf54d4cfdc51742236bbf'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說馬有三相經出雜阿含別譯
   type: juan
   level: 1
-hash: sha256:bfa3a29b564ba37e6c9c92ed0627a9ea5c8517c24a98910045ff85baba2d4b46
+hash: sha256:e5a18aa52640179ed5475f29553405f487c84899a295fcf3b9ce407b51317449
